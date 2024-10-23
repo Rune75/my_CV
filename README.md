@@ -3,11 +3,6 @@
 
 ## Personal Information
 **Name:** Rune Bekkevold  
-**Address:** Hammersbakkan 23b, 7353 Børsa  
-**Phone:** +47 98 63 45 13  
-**Email:** [rune.bekkevold@gmail.com](mailto:rune.bekkevold@gmail.com)  
-**Origin:** Valdres, Norway  
-**Civil Status:** Partnered with three children  
 
 ## Work Experience
 
