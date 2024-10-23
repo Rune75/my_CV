@@ -75,7 +75,3 @@ The system consists of two test stations. In Station 1, the tags are tested in a
 - Family and house projects, small game hunting, hare hound  
 - Various projects with Raspberry Pi, Arduino, Homeassistant, etc.  
 
-## References
-- **Nordic Semiconductor:** Torolv Skjølsvik, Team Lead, +47 48067071  
-- **Ferrx:** Harald Horn, Manager, +47 93245126  
-- **Fenrits / Norbit:** Per Erik Sørås, Project Manager, +47 90612450  
