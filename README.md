@@ -22,7 +22,8 @@
 |------------------------|---------------------------------------------------|------------|
 | NTNU                   | MSc. Electronics                                   | 2003-2005  |
 | - Specialization:       | Radio Systems (Signal Processing and Communication)|            |
-| - Autumn Project:      | Study of efficiency techniques for RF power amplifiers using active load tuning. Study of possibilities for using transmission-line transformers in lossless feedback networks for high-power broadband amplifiers. |
+| - Autumn Project:      | Study of efficiency techniques for RF power amplifiers using active load tuning.|
+| - Thesis:              | Study of possibilities for using transmission-line transformers in lossless feedback networks for high-power broadband amplifiers. |
 | HIST                   | BSc. in Telecommunications / Electronics           | 2000-2003  |
 | - Final Project:        | Development of a portable monitor for AIS signals: consisting of a VHF radio with microcontroller and PC application for data presentation. |
 | Gjøvik Technical College | Data and Electronics                             | 1997-1999  |
